@@ -1,0 +1,20 @@
+Velocity of ISS is: 27326.888005677207 km/h
+The curvature of the planet was omitted in the calculations due to lack of data.
+The correct speed is about 28,000 km/h.
+
+Number of people on board: 13
+
+Crew: 
+name: Sergey Prokopyev, craft: ISS,
+ name: Dmitry Petelin, craft: ISS,
+ name: Frank Rubio, craft: ISS,
+ name: Jing Haiping, craft: Tiangong,
+ name: Gui Haichow, craft: Tiangong,
+ name: Zhu Yangzhu, craft: Tiangong,
+ name: Jasmin Moghbeli, craft: ISS,
+ name: Andreas Mogensen, craft: ISS,
+ name: Satoshi Furukawa, craft: ISS,
+ name: Konstantin Borisov, craft: ISS,
+ name: Oleg Kononenko, craft: ISS,
+ name: Nikolai Chub, craft: ISS,
+ name: Loral O'Hara, craft: ISS
